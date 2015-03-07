@@ -1,0 +1,13 @@
+"*":
+  editor:
+    invisibles: {}
+    fontSize: 17
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "4a55434f-9a65-07ea-8d06-3ec1e3bac72f"
+  welcome:
+    showOnStartup: false
